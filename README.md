@@ -6,6 +6,7 @@ A slider made with Angular (6, 7).
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and deployment purposes.
+Please note that this is not a module. The repository itself is a source code.
 
 ### Prerequisites
 - This component depends on @angular/core.
