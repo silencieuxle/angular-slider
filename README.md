@@ -1,7 +1,7 @@
 # Angular Slider
 A slider made with Angular (6, 7).
 
-![Image of slider](https://github.com/silencieuxle/angular-slider/images/preview.jpg)
+![Image of slider](image/preview.png)
 
 ## Getting Started
 
