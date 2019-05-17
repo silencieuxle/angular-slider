@@ -1,0 +1,11 @@
+<div class="toggle-slider input-group mb-2 mr-sm-2">
+  <div class="input-group-prepend">
+    <b class="slider-label">{{ config.label }}</b>
+  </div>
+  <span>
+    <label class="bs-switch">
+      <input type="checkbox" [checked]="isChecked" (change)="onChanged()" />
+      <span class="slider round"></span>
+    </label>
+  </span>
+</div>
