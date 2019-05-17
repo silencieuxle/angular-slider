@@ -88,4 +88,4 @@ export class SliderConfig {
 
 ## License
 
-This project is licensed under the GNU Public License.
+This project is licensed under the GNU General Public License.
