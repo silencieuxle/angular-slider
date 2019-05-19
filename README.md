@@ -34,7 +34,7 @@ import { Component, OnInit, Input, EventEmitter, Output } from '@angular/core';
 })
 ```
 
-- Use the component in app.module
+- Use the component in app.module by importing the components.module
 
 ```
 @NgModule({
